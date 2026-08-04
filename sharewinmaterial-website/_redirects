@@ -1,5 +1,0 @@
-# Redirect www to non-www (SEO best practice)
-https://www.sharewinmaterial.com/* https://sharewinmaterial.com/:splat 301
-
-# SPA fallback (not needed for static site, but useful for future)
-# /* /index.html 200
