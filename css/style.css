@@ -117,17 +117,17 @@ img {
   gap: 12px;
 }
 
-.logo img {
+.logo-img {
+  height: 48px;
   width: auto;
-  height: 42px;
-  max-width: 200px;
-  object-fit: contain;
-  background: transparent;
-  padding: 0;
-  border: none;
-  border-radius: 0;
+  display: block;
 }
 
+@media (max-width: 768px) {
+  .logo-img {
+    height: 38px;
+  }
+}
 .logo-text h1 {
   font-size: 22px;
   font-weight: 700;
