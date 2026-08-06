@@ -1,5 +1,4 @@
-User-agent: *
+UUser-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://sharewinmaterial.com/sitemap.xml
+Sitemap: https://sharewinmaterials.com/sitemap.xml
